@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gidbecxa
-- 👀 I’m interested in software development, artificial intelligence (specifically machine learning).
-I am problem-solving oriented. Therefore, my resence as a developer is to create solutions. 
-- 🌱 I’m currently learning mobile development and cloud native development. 
-- 💞️ I’m looking to collaborate on API, Microservices & Cloud; native projects.
+- 👀 I’m interested in software development (especially mobile development), artificial intelligence (specifically machine learning).
+I am problem-solving oriented. Therefore, my essence as a developer is to innovate and create solutions. 
+- 🌱 I’m currently improving my skills in more mobile and native cloud development to become as best as possible/
+- 💞️ I’m looking to forward collaborate on Andriod, API, Microservices & Cloud; native projects.
 - 📫 How to reach me: 
 gmail: gidbec4yeshua@gmail.com
 
