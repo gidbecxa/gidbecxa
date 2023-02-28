@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gideon Oni-Becsen
-- 👀 I’m a software developer. I am proficient in software design and engineering priciples. I have built several successful software solutions
+- 👀 I’m a software developer. I am proficient in software design and engineering priciples. I have built over 20 software solutions
 - in over 6 years, with technologies such as C/C++, HTML, CSS, JavaScript, Kotlin, SQL, Node.js, Express.js, Bootstrap, MySQL, SQLite, and Android NDK
 - I'm particularly interested in mobile apps development, native cloud development and  machine learning.
 - I am problem-solving oriented. And I am product oriented. I value the principles of User Centered Sysytem Design.
