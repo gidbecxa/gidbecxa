@@ -1,7 +1,3 @@
-Here’s a concise and engaging GitHub README for you:  
-
----
-
 # 👋 Hey, I'm Gideon  
 
 🚀 **Fullstack Developer & Designer**,  I blend `design` and `engineering` to create digital products that don’t just function—they feel right.
