@@ -1,11 +1,35 @@
-- 👋 Hi, I’m Gideon Oni-Becsen
-- 👀 I’m a mobile and web developer. I am proficient in software design and engineering. I have built and scaled several software solutions
-- in over 7 years, with technologies such as C/C++, HTML/CSS, JavaScript, Kotlin, Android SDK, Expo, React Native, Node.js, Express.js, Tailwind CSS, MySQL and AWS
-- I'm particularly interested in developing algorithms, building mobile apps, cloud-native solutions, APIs, databases and  also in machine learning.
-- I am problem-solving oriented. I am also product-oriented, with careful emphasis on user-Centered System Design.
-- 🌱 I’m continuously developing my skills in mobile, backend and cloud-native technologies.
-- 💞️ I’m looking forward to working on Andriod, API, and Cloud-related projects.
-- 📫 How to reach me: Gmail: gidbec4yeshua@gmail.com
+Here’s a concise and engaging GitHub README for you:  
+
+---
+
+# 👋 Hey, I'm Gideon  
+
+🚀 **Fullstack Developer & Designer**,  I blend `design` and `engineering` to create digital products that don’t just function—they feel right.
+
+💻 **Tech Stack:** React Native (Expo) • Next.js • Nest.js • Expree.js • PostgreSQL • MySQL • AWS • Node.js • Firebase • Supabase • Godot • Android Studio • Google Cloud Platform
+
+✨ **What I Do:**  
+🔹 Code: Build and scale mobile, web, and cloud platforms (Maybe frontend, backend, or just APIs)  
+🔹 Design: Craft interactive web & mobile apps with rich UI/UX  
+🔹 Optimize performance, from backend architecture to frontend animations  
+🔹 Design immersive experiences in games: I've built 2 full-featured mobile games
+
+🎨 **What I Love:**  
+🛠 Solving complex problems with clean, scalable code  
+📱 Creating intuitive, user-centric applications
+🎮 Experimenting with game development and procedural design  
+📊 Building analytics tools that empower creators & businesses  
+
+🚀 **Some of My Work:**  
+🔹 Harpiee – A social platform with video sharing feature, personnalized stats, and unique engagement mechanics 
+🔹 TriviaRush - A multiplayer social trivia game (play trivia with friends from all over the world in real-time)
+🔹 DMORAU – A dating app with an advanced personnalized matching alorithm, in-app gifting, and real-time chat  
+🔹 Expense Tracker – A financial management tool with role-based access  
+🔹 Messibites -  A space-themed video game for mobile
+
+📬 **Let’s Connect:**  
+🔗 [https://gbecsen.vercel.app/]  
+🐦 [https://x.com/gbecsen]  
 
 <!---
 gidbecxa/gidbecxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
